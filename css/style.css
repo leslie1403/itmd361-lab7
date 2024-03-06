@@ -17,27 +17,31 @@ h2{
   font-style: italic;
 }
 
+.planets{
+  margin: 0 auto;
+}
+
 #mercury{
   border: 3px solid red;
   width: 100px;
   padding: 5px;
-  margin: 10px 0 10px 20px;
+  margin: 10px 10px 10px 10px;
 }
 #venus{
   border: 3px solid red;
   width: 100px;
   padding: 5px;
-  margin: 10px 0 10px 20px;
+  margin: 10px 10px 10px 10px;
 }
 #earth{
   border: 3px solid red;
   width: 100px;
   padding: 5px;
-  margin: 10px 0 10px 20px;
+  margin: 10px 10px 10px 10px;
 }
 #mars{
   border: 3px solid red;
   width: 100px;
   padding: 5px;
-  margin: 10px 0 10px 20px;
+  margin: 10px 10px 10px 10px;
 }
