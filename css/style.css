@@ -19,7 +19,25 @@ h2{
 
 #mercury{
   border: 3px solid red;
-  width: 50px;
+  width: 100px;
+  padding: 5px;
+  margin: 10px 0 10px 20px;
+}
+#venus{
+  border: 3px solid red;
+  width: 100px;
+  padding: 5px;
+  margin: 10px 0 10px 20px;
+}
+#earth{
+  border: 3px solid red;
+  width: 100px;
+  padding: 5px;
+  margin: 10px 0 10px 20px;
+}
+#mars{
+  border: 3px solid red;
+  width: 100px;
   padding: 5px;
   margin: 10px 0 10px 20px;
 }
